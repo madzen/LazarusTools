@@ -1,0 +1,1 @@
+# Notifies Python that LazarusTools is a package
